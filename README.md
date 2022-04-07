@@ -1,2 +1,3 @@
-# Hotel Api
-Granular IT Hackathon 2022
+# Form Api
+
+This is the api for an events platform meant to handle events.
